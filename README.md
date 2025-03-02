@@ -377,7 +377,3 @@ radarChart.exportImage()
 ## 贡献
 
 欢迎提交问题和改进建议！
-
-## 许可
-
-MIT 
